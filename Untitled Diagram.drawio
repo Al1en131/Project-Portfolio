@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="1723" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2068" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1c1d494c118603dd-1" value="Activity Diagram" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="40" y="20" width="750" height="1020" as="geometry" />
+          <mxGeometry x="40" y="20" width="750" height="980" as="geometry" />
         </mxCell>
         <mxCell id="j9S7m9VbnJjn6Bd4xAih-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1c1d494c118603dd-1" source="j9S7m9VbnJjn6Bd4xAih-56" target="j9S7m9VbnJjn6Bd4xAih-58" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -24,10 +24,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1c1d494c118603dd-2" value="Admin" style="swimlane;html=1;startSize=20;" parent="1c1d494c118603dd-1" vertex="1">
-          <mxGeometry y="20" width="250" height="1000" as="geometry" />
+          <mxGeometry y="20" width="250" height="960" as="geometry" />
         </mxCell>
         <mxCell id="1c1d494c118603dd-3" value="Penjual" style="swimlane;html=1;startSize=20;" parent="1c1d494c118603dd-1" vertex="1">
-          <mxGeometry x="250" y="20" width="250" height="1000" as="geometry" />
+          <mxGeometry x="250" y="20" width="250" height="960" as="geometry" />
         </mxCell>
         <mxCell id="j9S7m9VbnJjn6Bd4xAih-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1c1d494c118603dd-3" source="j9S7m9VbnJjn6Bd4xAih-58" target="j9S7m9VbnJjn6Bd4xAih-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -70,8 +70,8 @@
         <mxCell id="j9S7m9VbnJjn6Bd4xAih-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1c1d494c118603dd-1" source="j9S7m9VbnJjn6Bd4xAih-85" target="j9S7m9VbnJjn6Bd4xAih-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-TbSnAbcL_m0biIYStXS-1" value="Pembeli" style="swimlane;html=1;startSize=20;" vertex="1" parent="1c1d494c118603dd-1">
-          <mxGeometry x="500" y="20" width="250" height="1000" as="geometry" />
+        <mxCell id="-TbSnAbcL_m0biIYStXS-1" value="Pembeli" style="swimlane;html=1;startSize=20;" parent="1c1d494c118603dd-1" vertex="1">
+          <mxGeometry x="500" y="20" width="250" height="960" as="geometry" />
         </mxCell>
         <mxCell id="j9S7m9VbnJjn6Bd4xAih-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-TbSnAbcL_m0biIYStXS-1" source="j9S7m9VbnJjn6Bd4xAih-34" target="j9S7m9VbnJjn6Bd4xAih-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
